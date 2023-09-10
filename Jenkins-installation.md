@@ -15,7 +15,7 @@ Alright lets start with jenkins installation on server
 
 following command for Jenkins LTS installation on Debian/Ubuntu Server :
 
-# Installation of Java
+## Installation of Java
 ```
 sudo apt update
 ```
@@ -26,10 +26,12 @@ sudo apt install openjdk-17-jre
 java -version
 ```
 openjdk version "17.0.7" 2023-04-18
+
 OpenJDK Runtime Environment (build 17.0.7+7-Debian-1deb11u1)
+
 OpenJDK 64-Bit Server VM (build 17.0.7+7-Debian-1deb11u1, mixed mode, sharing)
 
-# Install debian stable apt repository
+## Install debian stable apt repository
 ```
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
