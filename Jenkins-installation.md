@@ -1,4 +1,4 @@
-# Install Jenkins on server
+### Installation Jenkins on server
 
 
 
@@ -13,9 +13,9 @@ Alright lets start with jenkins installation on server
 - [ ] [Official documentation](https://hub.docker.com/_/jenkins/) for Docker Official Image
 
 
-## 1. Jenkins LTS installation on Debian/Ubuntu Server :
+# **1. Jenkins LTS installation on Debian/Ubuntu Server :**
 
-**Installation of Java**
+# Installation of Java
 ```
 sudo apt update
 ```
@@ -31,8 +31,7 @@ OpenJDK Runtime Environment (build 17.0.7+7-Debian-1deb11u1)
 
 OpenJDK 64-Bit Server VM (build 17.0.7+7-Debian-1deb11u1, mixed mode, sharing)
 
-
-**Install debian stable apt repository**
+# Install debian stable apt repository
 ```
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
   /usr/share/keyrings/jenkins-keyring.asc > /dev/null
@@ -50,8 +49,7 @@ sudo apt-get install jenkins
 ```
 
 
-## 2. Jenkins installation on Docker Linux
-
+# **2. Jenkins installation on Docker Linux**
 - [ ] [Set up project integrations](http://192.168.90.222/web-dev/development/test-repository/-/settings/integrations)
 
 ## Collaborate with your team
