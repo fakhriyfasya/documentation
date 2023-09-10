@@ -31,6 +31,7 @@ OpenJDK Runtime Environment (build 17.0.7+7-Debian-1deb11u1)
 
 OpenJDK 64-Bit Server VM (build 17.0.7+7-Debian-1deb11u1, mixed mode, sharing)
 
+
 **Install debian stable apt repository**
 ```
 curl -fsSL https://pkg.jenkins.io/debian-stable/jenkins.io-2023.key | sudo tee \
@@ -48,7 +49,8 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-## Integrate with your tools
+
+## 2. Jenkins installation on Docker Linux
 
 - [ ] [Set up project integrations](http://192.168.90.222/web-dev/development/test-repository/-/settings/integrations)
 
