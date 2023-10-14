@@ -15,7 +15,7 @@ sudo su jenkins-agent
 
 ### 2.	Create private and public SSH keys. 
 
-The following command creates the private key jenkinsAgent_rsa and the public key jenkinsAgent_rsa.pub. 
+The following command creates the private key jenkins_agent_rsa and the public key jenkins_agent_rsa.pub. 
 
 It is recommended to store your keys under ~/.ssh/ so we move to that directory before creating the key pair.
 ```
