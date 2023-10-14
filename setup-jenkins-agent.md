@@ -61,7 +61,7 @@ note: the max number of executors are 10
 
 my root directory is **/home/jenkins-agent/jenkins_workspace/**
 
-and my i use **linux docker java** as name of label
+and i use **linux docker java** as name of label
 
 for usage choose **use this node as much as possible**
 
