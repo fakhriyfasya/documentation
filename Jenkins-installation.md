@@ -53,7 +53,8 @@ After finish your installation, go to akses your jenkins
 ```
 Note: 8080 is default port from jenkins
 
-the default login to access your jenkins is **admin** \n
+the default login to access your jenkins is **admin**
+
 and for get your password, go to **/var/lib/jenkins/secrets/initialAdminPassword**
 
 ## **2. Jenkins installation on Docker Linux**
