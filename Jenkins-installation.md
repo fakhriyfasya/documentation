@@ -47,9 +47,21 @@ sudo apt-get update
 ```
 sudo apt-get install jenkins
 ```
+After finish your installation, go to akses your jenkins
+'''
+<youripaddress>:8080
+'''
+Note: 8080 is default port from jenkins
 
+the default login access your jenkins is *admin*
+and for get your password, go to */var/lib/jenkins/secrets/initialAdminPassword*
 
 ## **2. Jenkins installation on Docker Linux**
+
+'''
+docker run -d --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins
+'''
+
 - [ ] [Set up project integrations](http://192.168.90.222/web-dev/development/test-repository/-/settings/integrations)
 
 ## Collaborate with your team
