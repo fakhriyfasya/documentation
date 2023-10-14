@@ -8,12 +8,12 @@ In order to connect an SSH agent with the user **jenkins-agent** , follow these 
 
 On the agent machine:
 
-# 1.	Log in to the agent machine as **jenkins-agent**:
+### 1.	Log in to the agent machine as **jenkins-agent**:
 ```
 sudo su jenkins-agent
 ```
 
-# 2.	Create private and public SSH keys. 
+### 2.	Create private and public SSH keys. 
 
 The following command creates the private key jenkinsAgent_rsa and the public key jenkinsAgent_rsa.pub. 
 
