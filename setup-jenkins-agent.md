@@ -76,17 +76,27 @@ clik **Add** for setting your **credential**
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/2fa803a8-0c89-4055-8536-e15466b8407b)
 
-click the **Domain** button and choose **Global Credential** 
+## 11.  Add Jenkins Credentials for Jenkins Agent
+
+click the **Domain** button and choose **Global Credentials** 
 
 click the **kind** button and choose **SSH Username with private key**
 
 Input your **ID**
 
-Descripstion is optional
+**Description** is optional
 
 Input the same **username** as **SSH key's username**
 
+Enter your **Private Key**
 
+fill the **passphase** if you set your passphase on SSH key
+
+click **Add** 
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/81e77cad-90c5-4bcf-b54e-295e72af14be)
+
+## 12.  setting **Host Key Verification Strategy** and **Availability**
 
 in section **Host Key Verification Strategy**, choose **Manualy trusted key Verification Strategy**
 
