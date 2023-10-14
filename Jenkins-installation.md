@@ -59,9 +59,9 @@ and for get your password, go to **/var/lib/jenkins/secrets/initialAdminPassword
 
 ## **2. Jenkins installation on Docker Linux**
 
-'''
+```
 docker run -d --name myjenkins -p 8080:8080 -p 50000:50000 -v /var/jenkins_home jenkins
-'''
+```
 
 After finish setup jenkins on docker, go to akses your jenkins
 ```
