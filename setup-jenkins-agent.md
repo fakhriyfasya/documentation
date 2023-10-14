@@ -72,6 +72,8 @@ in section **Launch Method** choose **Launch agent via SSH**
 
 fill the **Host** section to **<ip_address_the_jenkins_agent>** 
 
+clik **Add** for setting your **credential**
+
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/2fa803a8-0c89-4055-8536-e15466b8407b)
 
 click the **Domain** button and choose **Global Credential** 
