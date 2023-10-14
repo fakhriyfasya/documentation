@@ -65,10 +65,28 @@ and my i use **linux docker java** as name of label
 
 for usage choose **use this node as much as possible**
 
-
-
-
-
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/55be6220-e30f-4586-97d8-8556cdebeafa)
+
+### 10. set the Host value to the ip address of the agent, and press the Add button for Credentials:
+
+click the **Domain** button and choose **Global Credential** 
+
+click the **kind** button and choose **SSH Username with private key**
+
+Input your **ID**
+
+Descripstion is optional
+
+Input the same **username** as **SSH key's username**
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/2fa803a8-0c89-4055-8536-e15466b8407b)
+
+in section **Host Key Verification Strategy**, choose **Manualy trusted key Verification Strategy**
+
+and **check** the **Require manual verification of initial connection**
+
+in section **Availability**, choose **Keep this agent online as much as possible** and **save**
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/cd084c1a-f05b-4b4d-b6f7-b1b20382eb5f)
 
 
