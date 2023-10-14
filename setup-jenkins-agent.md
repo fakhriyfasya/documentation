@@ -46,4 +46,29 @@ cat ~/.ssh/jenkins_agent_rsa
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e8a4ede9-ac43-4d93-a503-4b017eeb6ced)
 
+### 7.  Click *New Node* 
+
+### 8.  Fill *node name* choose *type : permanent agent* and click *Create*
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/85364c9a-4f9d-40eb-a552-bcd2fdc4c950)
+
+### 9.	Fill in the Remote root directory with a path the user on the agent is allowed to write to.
+in this case,
+
+i set **number of executors** are **2**
+
+note: the max number of executors are 10
+
+my root directory is **/home/jenkins-agent/jenkins_workspace/**
+
+and my i use **linux docker java** as name of label
+
+for usage choose **use this node as much as possible**
+
+
+
+
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/55be6220-e30f-4586-97d8-8556cdebeafa)
+
 
