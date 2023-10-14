@@ -68,6 +68,11 @@ for usage choose **use this node as much as possible**
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/55be6220-e30f-4586-97d8-8556cdebeafa)
 
 ### 10. set the Host value to the ip address of the agent, and press the Add button for Credentials:
+in section **Launch Method** choose **Launch agent via SSH**
+
+fill the **Host** section to **<ip_address_the_jenkins_agent>** 
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/2fa803a8-0c89-4055-8536-e15466b8407b)
 
 click the **Domain** button and choose **Global Credential** 
 
@@ -79,7 +84,7 @@ Descripstion is optional
 
 Input the same **username** as **SSH key's username**
 
-![image](https://github.com/fakhriyfasya/documentation/assets/67684999/2fa803a8-0c89-4055-8536-e15466b8407b)
+
 
 in section **Host Key Verification Strategy**, choose **Manualy trusted key Verification Strategy**
 
