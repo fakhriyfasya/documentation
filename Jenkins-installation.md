@@ -69,8 +69,11 @@ After finish setup jenkins on docker, go to akses your jenkins
 ```
 Note: 8080 is default port from jenkins
 
-the default login to access your jenkins is **admin** \n
+the default login to access your jenkins is **admin**
+
 and for get your password, go to **/var/lib/jenkins/secrets/initialAdminPassword**
+
+## END ##
 
 
 - [ ] [Set up project integrations](http://192.168.90.222/web-dev/development/test-repository/-/settings/integrations)
