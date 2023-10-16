@@ -15,7 +15,9 @@
 1.4 Click **OK**
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/add680a8-d651-45a0-963e-4f928b3b2aba)
-      
+
+
+
 **2. Configure project**
 
 2.1 In section **General**, **Check Github project** and copy your repository URL
@@ -52,6 +54,8 @@ ex : var/Jenkinsfile
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/3aa30ef1-214a-4684-ad4c-8ec9dab4dae9)
 
+
+
 **3. Setting Webhook in Github repository**
 
 3.1 Go to **Setting** in Project Repository on Github
@@ -72,7 +76,7 @@ ex : var/Jenkinsfile
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/686e895e-6d84-4d7d-9137-e9eae6a69f90)
 
-3.7 Check connection **webhook**, Clik Link webhook
+3.7 Check connection **webhook**, Click Link webhook
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/4c101439-647a-4158-ad56-be8a004f54c4)
 
