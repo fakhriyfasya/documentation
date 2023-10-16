@@ -46,8 +46,13 @@ if your branch is master, enter **(*/master)**
 
 If the location of the **Jenkinsfile** is in a folder, you must include the name of the folder in the Script Path
 
-ex : /var/Jenkinsfile
+ex : var/Jenkinsfile
 
 2.10 **Save**
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/40ef4d4d-be17-4c20-a947-bd6de92e544a)
+
+**3. Setting Webhook in Github repository**
+
+3.1 Go to Setting in Project Repository
+
