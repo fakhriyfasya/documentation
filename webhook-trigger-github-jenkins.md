@@ -5,6 +5,7 @@
 **1.   Create New Pipeline on Jenkins**
 
 Click **new item** in dashbord Jenkins
+
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/af5a2a56-8b8c-44f4-99f6-07f0172bd6cd)
               
 **Enter an item name** or enter the project name
@@ -12,6 +13,7 @@ Click **new item** in dashbord Jenkins
 choose **Pipeline**
               
 Click **OK**
+
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/add680a8-d651-45a0-963e-4f928b3b2aba)
       
 
