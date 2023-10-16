@@ -1,4 +1,4 @@
-# Setup Jenkins Agent as worker job
+# Setup Nodes/Jenkins Agent as worker
 
 **Steps:**
 
@@ -106,4 +106,22 @@ in section **Availability**, choose **Keep this agent online as much as possible
 
 ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/cd084c1a-f05b-4b4d-b6f7-b1b20382eb5f)
 
+## 13.  Check log the new Nodes
 
+after all the Node configurations are saved, the new nodes you have just created will appear.
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/107cb9ee-a17d-41ff-aeea-ca9b9c4f728f)
+
+if there is no crossmark on the new node, it means the node is online and the connection is working.
+
+for make sure the new nodes online and connected to jenkins Server, we have to check the log nodes
+
+click the new nodes, in this case my new nodes is **jenkins-agent**
+
+click **log** to check log the new nodes.
+
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/52349a45-42fb-46dc-ac96-2152e1b4bf05)
+
+If the **agent successfully connected and online**, it's mean the nodes ready to for running job.
+
+## - END - 
