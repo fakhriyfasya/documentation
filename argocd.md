@@ -46,5 +46,8 @@
    go to https://www.base64decode.org/ to decode your password argocd
 
 4. Login argocd from Web UI
-   
+
+   ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/09e19fd4-a4ef-4170-8643-450891fb898e)
+
+# -END-
 
