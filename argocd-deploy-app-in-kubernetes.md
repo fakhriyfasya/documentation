@@ -4,13 +4,13 @@
 
 1. Login to argocd WEB UI
 
-2. in left side, click **Settings** to configure **Project** and **Repositories**
+2. in left side, click **Settings** to configure **Projects** and **Repositories**
 
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e1ec0766-6700-4355-88d7-67e840ebd632)
 
-3. First, configure or setup Project
+3. First, configure or setup Projects
 
-   Click **Project**, and than Click **NEW PROJECT**
+   Click **Project**, and than Click **NEW PROJECTS**
 
    Fill the **Project Name** and **Desciption**
 
@@ -26,15 +26,17 @@
 
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/85a8f226-f0f1-45f2-beb1-b3eede4baa19)
 
+   ```
    Fill section **SOURCE REPOSITORIES** with your git repository where you save kubernetes manifest yaml
 
    Click **EDIT**, and click **ADD SOURCE**
 
-   in this case i use my github repository
+   **Notes : in this case i use my github repository**
 
    After that, click **SAVE**
 
-   ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/08868a09-dc90-4ed2-8ba1-ab5dfe21bd1c)N
+   ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/08868a09-dc90-4ed2-8ba1-ab5dfe21bd1c)
+   ```
 
    NEXT, configure your **DESTINATION**
 
