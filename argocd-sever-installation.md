@@ -27,7 +27,7 @@
    2. NodePort
    3. LoadBalancer
   
-   in this case i use service type **LoadBalancer** to acceess argocd
+   in this case i use service type **LoadBalancer** to access argocd
 
 4. the default username for login argocd is **admin**
 
