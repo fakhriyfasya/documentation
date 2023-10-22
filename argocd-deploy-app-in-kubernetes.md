@@ -78,8 +78,11 @@
    In Section **Choose your connection method**. There is 4 method for connection :
    
    •  Via HTTPS
+   
    •  Via SSH
+   
    •  Via Github App
+   
    •  Via Google Cloud
   
    If you use **Via SSH**, you have to put your **SSH Private key** for authentication.
