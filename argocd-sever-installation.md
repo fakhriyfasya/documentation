@@ -23,6 +23,7 @@
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/07e40b3a-a531-4865-8a5f-49d7f2083f53)
 
    **in kubernetes, there is 3 ways service type to access :**
+   
    •  ClusterIP
       
    •  NodePort
@@ -31,7 +32,7 @@
   
    in this case i use service type **LoadBalancer** to access argocd
 
-4. the default username for login argocd is **admin**
+5. the default username for login argocd is **admin**
 
    to get the argocd password, we have to check to the Argocd-initial-admin-secret
 
