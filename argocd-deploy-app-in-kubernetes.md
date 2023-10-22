@@ -12,16 +12,16 @@
 
 3. Configure or setup Projects
 
-   Click **Project**, and than Click **NEW PROJECTS**
+   •  Click **Project**, and than Click **NEW PROJECTS**
 
-   Fill the **Project Name** and **Desciption**
+   •  Fill the **Project Name** and **Desciption**
 
-   After fill the section General, click **Create**
+   •  After fill the section General, click **Create**
 
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/85a82208-b2fc-4f20-954f-3c741c77bf9f)
    
 
-4. After Create New Project, will pop up setup project page
+5. After Create New Project, will pop up setup project page
 
    we just setup the project in tab **SUMMARY**
 
@@ -54,7 +54,7 @@
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/ea4368e9-db6a-43f0-9dc5-86a8656d65a7)
 
 
-5. Now, configure Reposifories
+6. Now, configure Reposifories
 
    Click **Settings** and click **Repositories**
 
