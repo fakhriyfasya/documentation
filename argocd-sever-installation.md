@@ -23,11 +23,11 @@
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/07e40b3a-a531-4865-8a5f-49d7f2083f53)
 
    **in kubernetes, there is 3 ways service type to access :**
-   1. ClusterIP
+   •  ClusterIP
       
-   2. NodePort
+   •  NodePort
       
-   3. LoadBalancer
+   •  LoadBalancer
   
    in this case i use service type **LoadBalancer** to access argocd
 
