@@ -1,4 +1,4 @@
-# Deploy Application in kubernetes using ArgoCD WEB UI
+# Deploy Application on kubernetes using ArgoCD WEB UI
 
 **Steps :**
 
@@ -77,13 +77,13 @@
    
    In Section **Choose your connection method**. There is 4 method for connection :
    
-      •  Via HTTPS
+      >  Via HTTPS
    
-      •  Via SSH
+      >  Via SSH
    
-      •  Via Github App
+      >  Via Github App
    
-      •  Via Google Cloud
+      >  Via Google Cloud
   
    If you use **Via SSH**, you have to put your **SSH Private key** for authentication.
    
