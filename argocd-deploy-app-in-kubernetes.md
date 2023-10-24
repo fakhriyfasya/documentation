@@ -2,15 +2,15 @@
 
 **Steps :**
 
-**1. Login to argocd WEB UI**
+1. Login to argocd WEB UI
    
 
-**2. in left side, click Settings to configure Projects and Repositories**
+2. in left side, click **Settings** to configure **Projects** and **Repositories**
 
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e1ec0766-6700-4355-88d7-67e840ebd632)
    
 
-**3. Configure or setup Projects**
+3. Configure or setup Projects
 
    •  Click **Project**, and than Click **NEW PROJECTS**
 
@@ -21,7 +21,7 @@
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/85a82208-b2fc-4f20-954f-3c741c77bf9f)
    
 
-**5. After Create New Project, will pop up setup project page**
+4. After Create New Project, will pop up setup project page
 
    •  we just setup the project in tab **SUMMARY**
 
@@ -54,7 +54,7 @@
    ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/ea4368e9-db6a-43f0-9dc5-86a8656d65a7)
 
 
-**6. Now, configure Reposifories**
+5. Now, configure Reposifories
 
    •  Click **Settings** and click **Repositories**
 
