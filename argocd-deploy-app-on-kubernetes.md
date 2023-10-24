@@ -77,17 +77,19 @@
    
    In Section **Choose your connection method**. There is 4 method for connection :
    
-   •  Via HTTPS
+      •  Via HTTPS
    
-   •  Via SSH
+      •  Via SSH
    
-   •  Via Github App
+      •  Via Github App
    
-   •  Via Google Cloud
+      •  Via Google Cloud
   
    If you use **Via SSH**, you have to put your **SSH Private key** for authentication.
    
    If you use **Via HTTPS** and your Repository is private, you have to fill username and Generate token in your repository as your password.
+
+   • Fifth, Click **Connect**
 
    
 
