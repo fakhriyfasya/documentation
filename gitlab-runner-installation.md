@@ -8,7 +8,7 @@
 
 2. Install Docker, because we using docker as a runner
    
-   **• Install dependency for installation docker & install docker**
+   2.1 **Install dependency for installation docker & install docker**
 ```
 # Add Docker's official GPG key:
 sudo apt-get update
@@ -46,5 +46,10 @@ sudo apt-get install gitlab-runner
 ```
 
 4. Registration gitlab-runner
+   
+   ``` 
+   sudo gitlab-runner register
+   ```
+5. 
 
 
