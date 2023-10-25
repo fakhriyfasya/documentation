@@ -90,9 +90,14 @@ Enter the default Docker image (for example, ruby:2.7):
 docker:dind 
 ```
 
-> Note : docker:dind = container image for build, run and push docker container using Dockerfile
-> you can choose other docker image for default docker image in this gitlab runner. exp : ubuntu, nginx and node
+> Note :
+> 1. You can define your runner use your tag runner. exp tag : docker
+>    
+> 2. docker:dind = container image for build, run and push docker container using Dockerfile.
+> 
+> you can choose other docker image for default docker image in this gitlab runner. exp : ubuntu, nginx and node.
 
 
-6. .gitlab-ci.yml for using 
+
+6. **.gitlab-ci.yml** for using 
 
