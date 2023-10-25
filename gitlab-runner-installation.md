@@ -2,13 +2,13 @@
 
 **Steps :**
 
-1. INSTALL OS FOR GITLAB-RUNNER
+**1. Install OS for Gitlab-Runner**
 
-    Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
+    > Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
 
-2. Install Docker, because we using docker as a runner
+**2. Install Docker, because we using docker as a runner**
    
-   2.1. **Install dependency for installation docker & install docker**
+> Install dependency for installation docker & install docker
 ```
 # Add Docker's official GPG key:
 sudo apt-get update
