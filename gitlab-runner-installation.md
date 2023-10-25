@@ -4,7 +4,7 @@
 
 **1. Install OS for Gitlab-Runner**
 
-> Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
+> Note : in this case, i using Ubuntu 22.04 for OS gitlab-runner
 
 
 **2. Install Docker, because we using docker as a runner**
