@@ -2,7 +2,7 @@
 
 **Steps :**
 
-1. Install OS for Gitlab Runner
+1. INSTALL OS FOR GITLAB-RUNNER
 
     Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
 
