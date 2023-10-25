@@ -1,4 +1,4 @@
-## Installation Spesific Gitlab-Runner using Docker
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/63b0c682-53b6-4504-8d3a-b24c8308e28c)## Installation Spesific Gitlab-Runner using Docker
 
 **Steps :**
 
@@ -46,12 +46,18 @@ curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/s
 sudo apt-get install gitlab-runner
 ```
 
+**4. Go to GitLab Web UI for copy your Group token Runner**
+> Clik **search** and choose **view all my group**
 
-**4. Registration gitlab-runner**
+> ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e57f5ab0-763d-4706-8060-3e5495e923be)
+
+   
+**5. Registration gitlab-runner**
    
 ``` 
 sudo gitlab-runner register
 ```
+
 ```
 Enter the GitLab instance URL (for example, https://gitlab.com/):
 https://gitlab.com/
@@ -75,6 +81,5 @@ Enter the default Docker image (for example, ruby:2.7):
 docker:dind
 ```
 
-5. 
 
 
