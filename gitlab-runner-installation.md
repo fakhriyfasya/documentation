@@ -4,7 +4,7 @@
 
 **1. Install OS for Gitlab-Runner**
 
-    > Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
+> Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
 
 **2. Install Docker, because we using docker as a runner**
    
@@ -31,24 +31,25 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli -y containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-3. Install gitlab-runner
+**3. Install gitlab-runner**
 
-   3.1. **Add the official GitLab repository for Ubuntu/Debian**
+> Add the official GitLab repository for Ubuntu/Debian
    
 ```
 curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
 ```
-   3.2. **Install the latest version of GitLab Runner for Ubuntu/Debian**
+> Install the latest version of GitLab Runner for Ubuntu/Debian
    
 ```
 sudo apt-get install gitlab-runner
 ```
 
-4. Registration gitlab-runner
+**4. Registration gitlab-runner**
    
    ``` 
    sudo gitlab-runner register
    ```
+
 5. 
 
 
