@@ -8,7 +8,7 @@
 
 2. Install Docker, because we using docker as a runner
    
-   2.1 **Install dependency for installation docker & install docker**
+   2.1. **Install dependency for installation docker & install docker**
 ```
 # Add Docker's official GPG key:
 sudo apt-get update
@@ -33,13 +33,12 @@ sudo apt-get install docker-ce docker-ce-cli -y containerd.io docker-buildx-plug
 
 3. Install gitlab-runner
 
-   **• Add the official GitLab repository for Ubuntu/Debian**
+   3.1. **Add the official GitLab repository for Ubuntu/Debian**
    
 ```
 curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
 ```
-
-   **• Install the latest version of GitLab Runner for Ubuntu/Debian**
+   3.2. **Install the latest version of GitLab Runner for Ubuntu/Debian**
    
 ```
 sudo apt-get install gitlab-runner
