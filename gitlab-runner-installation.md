@@ -7,6 +7,7 @@
     Note : for this case, i using Ubuntu 22.04 for OS gitlab-runner
 
 2. Install Docker, because we using docker as a runner
+   
    • Install dependency for installation docker
 ```
 # Add Docker's official GPG key:
@@ -33,11 +34,13 @@ sudo apt-get install docker-ce docker-ce-cli -y containerd.io docker-buildx-plug
 3. Install gitlab-runner
 
    • Add the official GitLab repository for Ubuntu/Debian
+   
 ```
 curl -L "https://packages.gitlab.com/install/repositories/runner/gitlab-runner/script.deb.sh" | sudo bash
 ```
 
    • Install the latest version of GitLab Runner for Ubuntu/Debian
+   
 ```
 sudo apt-get install gitlab-runner
 ```
