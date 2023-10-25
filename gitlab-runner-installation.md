@@ -51,7 +51,7 @@ sudo apt-get install gitlab-runner
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e57f5ab0-763d-4706-8060-3e5495e923be)
 
 > **Choose your group** for using this gitlab runner
-> ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/82c950b7-d864-420d-abc0-a966990514fd)
+> ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/f6f031f2-9b94-4abd-9086-c8564ec56df1)
 
 > Clik **Build** and **Choose Runner**
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/419819a1-7a76-4e60-9876-f0fd41ac12b5)
