@@ -97,7 +97,32 @@ docker:dind
 > 
 > you can choose other docker image for default docker image in this gitlab runner. exp : ubuntu, nginx and node.
 
+6. Edit config.toml
+   
+   ```
+   cd /etc/gitlab-runner/
+   ```
+   > swith to root if you dont have permission
+
+   ```
+   vim config.toml
+   ```
+
+   edit **privileged = true** and edit **volumes = ["/var/run/docker.sock:/var/run/docker.sock", "/cache"]**
+
+   ```
+   privileged = true
+   volumes = ["/var/run/docker.sock:/var/run/docker.sock", "/cache"]
+   ```
+
+   ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/8f2ac8ea-ef82-41ab-a915-169b58312454)
 
 
-6. **.gitlab-ci.yml** for using 
+7. **.gitlab-ci.yml** run using gitlab-runner docker with tag and without tag
 
+![image](https://github.com/fakhriyfasya/documentation/assets/67684999/a816b630-72eb-4abf-8528-6feabe72f917)
+
+> Note :
+> 1. In this case, i define **tag docker** as gitlab runner
+> 2. I set this gitlab-runner can **run with tag or without tag**
+> 3. I use any docker image, like **image alpine** and **image docker** with **service docker:dind**
