@@ -47,19 +47,16 @@ sudo apt-get install gitlab-runner
 ```
 
 **4. Go to GitLab Web UI for copy your Group token Runner**
-> Clik **search** and choose **view all my group**
-> 
+> 1. Clik **search** and choose **view all my group**
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/e57f5ab0-763d-4706-8060-3e5495e923be)
 
-> **Choose your group** for using this gitlab runner
-> 
+> 2. **Choose your group** for using this gitlab runner
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/f6f031f2-9b94-4abd-9086-c8564ec56df1)
 
-> Clik **Build** and **Choose Runner**
-> 
+> 3. Clik **Build** and **Choose Runner**
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/419819a1-7a76-4e60-9876-f0fd41ac12b5)
 
-> Clik Runner **Group**, klik **3 dot button** and **copy** your Registration token and paste to your text editor because we need this token for regis to your gitlab runner
+> 4. Clik Runner **Group**, klik **3 dot button** and **copy** your Registration token and paste to your text editor because we need this token for regis to your gitlab runner
 > 
 > ![image](https://github.com/fakhriyfasya/documentation/assets/67684999/b083f417-b587-4f54-aa9f-cf603262bb9c)
 
