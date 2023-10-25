@@ -1,4 +1,4 @@
-![image](https://github.com/fakhriyfasya/documentation/assets/67684999/63b0c682-53b6-4504-8d3a-b24c8308e28c)## Installation Spesific Gitlab-Runner using Docker
+## Installation Spesific Gitlab-Runner using Docker
 
 **Steps :**
 
