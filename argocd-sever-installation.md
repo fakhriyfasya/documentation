@@ -39,6 +39,12 @@
    go to check **secret** named **Argocd-initial-admin-secret**
 
    ```
+   kubectl -n argocd get secret argocd-initial-admin-secret -o jsonpath="{.data.password}" | base64 -d; echo
+   ```
+   
+   or
+
+   ```
    kubectl -n argocd get secret argocd-initial-admin-secret -o yaml
    ```
    
